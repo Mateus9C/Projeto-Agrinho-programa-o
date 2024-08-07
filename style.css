@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h2{
+    color:rgb(255, 38, 0);
+}
+
+.cabeçalho{
+    background-color: #020917;
+    color: rgb(202, 33, 33);
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding: 10px 0;
+  
+}
+
+.cabeçalho-imagem{
+    width: 20%;
+}
+.cabeçalho-titulo{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px; 
+}
+
+section{
+    background-size: #789fdb;
+    color: rgb(0, 0, 0);
+    font-family: Roboto;
+    text-align: center;
+    justify-content: center;
+    
+}
+
+
+.texto-div-conteudo{
+width: 35%;
+text-align: justify;
+align-items: center;
+}
+h3{
+    color: rgb(109, 224, 14);
+
+}
